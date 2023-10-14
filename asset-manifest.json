@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/sri-murugan-builders/static/css/main.c1a30e05.css",
+    "main.js": "/sri-murugan-builders/static/js/main.30e71c0b.js",
+    "static/js/787.91b0033e.chunk.js": "/sri-murugan-builders/static/js/787.91b0033e.chunk.js",
+    "static/media/aboutVideo.mp4": "/sri-murugan-builders/static/media/aboutVideo.e992f35aed5773a373ef.mp4",
+    "static/media/b4.jpg": "/sri-murugan-builders/static/media/b4.2fedda7a4f4e5ec1f049.jpg",
+    "static/media/b1.jpg": "/sri-murugan-builders/static/media/b1.01227918c3eed2e06dbe.jpg",
+    "static/media/b2.jpg": "/sri-murugan-builders/static/media/b2.bd55bba6ae132f909052.jpg",
+    "static/media/b3.jpg": "/sri-murugan-builders/static/media/b3.63b2f67d04fdea2a250a.jpg",
+    "static/media/building.jpg": "/sri-murugan-builders/static/media/building.ece375eb7c5ef11f5fd6.jpg",
+    "static/media/interior.jpg": "/sri-murugan-builders/static/media/interior.43bb6f162b4de9da88c8.jpg",
+    "static/media/homepro.png": "/sri-murugan-builders/static/media/homepro.6fa9832233b01530636f.png",
+    "static/media/caboardpro.png": "/sri-murugan-builders/static/media/caboardpro.9a9e9dbff52e07a79671.png",
+    "static/media/homepro3.jpg": "/sri-murugan-builders/static/media/homepro3.1ca051c7e7d73fef8856.jpg",
+    "static/media/logo.png": "/sri-murugan-builders/static/media/logo.425ff3303b84663b4c33.png",
+    "static/media/materilas.jpeg": "/sri-murugan-builders/static/media/materilas.83e819f0127fb162bb52.jpeg",
+    "static/media/renovation.jpeg": "/sri-murugan-builders/static/media/renovation.2891e20aa17eb90a25ba.jpeg",
+    "static/media/tvpro.jpeg": "/sri-murugan-builders/static/media/tvpro.3dcf9b3ef6343d1bacfe.jpeg",
+    "static/media/homepro2.jpg": "/sri-murugan-builders/static/media/homepro2.4b43751d5d6fd69957b7.jpg",
+    "static/media/plan.jpeg": "/sri-murugan-builders/static/media/plan.f2f662aae032cd65a257.jpeg",
+    "static/media/architucture.jpg": "/sri-murugan-builders/static/media/architucture.b531523bb1f07fc19cdb.jpg",
+    "static/media/footerBackGround.png": "/sri-murugan-builders/static/media/footerBackGround.e31a78fa8a9a4141c298.png",
+    "static/media/flooringpro.jpg": "/sri-murugan-builders/static/media/flooringpro.9ae3d3438ce3689a5d7d.jpg",
+    "static/media/location.png": "/sri-murugan-builders/static/media/location.a405c2668c55f74c09be.png",
+    "static/media/lg.svg?io9a6k": "/sri-murugan-builders/static/media/lg.09cd8e9be7081f216644.svg",
+    "static/media/phone-call.png": "/sri-murugan-builders/static/media/phone-call.d35848942c955a6232b3.png",
+    "static/media/lg.woff?io9a6k": "/sri-murugan-builders/static/media/lg.356a0e9cb064c7a196c6.woff",
+    "static/media/lg.ttf?io9a6k": "/sri-murugan-builders/static/media/lg.747d038541bfc6bb8ea9.ttf",
+    "static/media/lg.woff2?io9a6k": "/sri-murugan-builders/static/media/lg.64b800aa30714fd916dc.woff2",
+    "index.html": "/sri-murugan-builders/index.html",
+    "main.c1a30e05.css.map": "/sri-murugan-builders/static/css/main.c1a30e05.css.map",
+    "main.30e71c0b.js.map": "/sri-murugan-builders/static/js/main.30e71c0b.js.map",
+    "787.91b0033e.chunk.js.map": "/sri-murugan-builders/static/js/787.91b0033e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1a30e05.css",
+    "static/js/main.30e71c0b.js"
+  ]
+}
